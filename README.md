@@ -83,7 +83,7 @@ split_8ch_wav(
 ## Example
 
 ```bash
-python split_8ch_wav.py recordings/session01.wav out/session01/
+python wavsplitter.py recordings/session01.wav out/session01/
 ```
 
 Output:
